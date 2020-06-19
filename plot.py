@@ -104,4 +104,7 @@ def head_visualizer(start_pos):
     plt.show() 
 
     # print("akash  & amrita are cool")
-      
+
+if __name__ == '__main__':
+    start_pos = [0,0,0]
+    head_visualizer(start_pos)
